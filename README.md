@@ -32,8 +32,8 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
   <a href="https://www.youtube.com/@zle0o_tt" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" height="30" style="filter: invert(16%) sepia(93%) saturate(6622%) hue-rotate(356deg) brightness(102%) contrast(113%);" />
-</a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" height="30" width="40" style="filter: invert(16%) sepia(93%) saturate(6622%) hue-rotate(356deg) brightness(102%) contrast(113%);" />
+  </a>
   <a href="https://discord.gg/qNemf7Uqum" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
