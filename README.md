@@ -1,15 +1,13 @@
-<h3 align="center">Welcome to my Page</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zle0o&label=Profile%20views&color=0e75b6&style=flat" alt="zle0o" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zle0o" alt="zle0o" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zle0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zle0o" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zle0o_tt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zle0o_tt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@zle0o_tt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zle0o_tt" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/qNemf7Uqum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qNemf7Uqum" height="30" width="40" /></a>
 </p>
 
