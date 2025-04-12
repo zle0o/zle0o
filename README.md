@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently doing beautiful UIs and exploring backend magic
-- 🌱 Always learning something new – from Simple Scripting to complicated Scripting
+- 🌱 Always learning something new – from simple Scripting to complicated Scripting
 - 🎮 I love game development
 - 📫 Reach me on Discord: `zle0o` or join my [server](https://discord.gg/qNemf7Uqum)
 
