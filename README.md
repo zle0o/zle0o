@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi there 👋, I'm zle0o</h1>
-<h3 align="center">Frontend Wizard ⚡ | Code Alchemist 🧪 | From 🇮🇳</h3>
+<h1 align="center">Hey 👋, I'm zle0o</h1>
+<h3 align="center">Frontend Wizard ⚡ | Code Alchemist 🧪 | From 🇩🇪 Germany</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -10,7 +10,7 @@
 <!-- Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zle0o&theme=dracula&margin-w=15&no-frame=true" alt="zle0o" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zle0o&theme=dracula&margin-w=15&no-frame=true" alt="zle0o trophies" />
   </a>
 </p>
 
@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **cool frontend projects and exploring backend stuff too**
-- 🌱 I’m always learning new tech and tools to level up 💪
-- 🎮 I love building Minecraft plugins and messing with game dev 🕹️
-- 📫 Reach me on Discord: `zle0o` or jump into my [server](https://discord.gg/qNemf7Uqum)
+- 🔭 Currently crafting beautiful UIs and exploring backend magic
+- 🌱 Always learning something new – from TypeScript to Minecraft plugin dev
+- 🎮 I love game development and automation projects
+- 📫 Reach me on Discord: `zle0o` or join my [server](https://discord.gg/qNemf7Uqum)
 
 ---
 
@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
   <a href="https://www.youtube.com/@zle0o_tt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="30" />
   </a>
   <a href="https://discord.gg/qNemf7Uqum" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="30" />
@@ -44,7 +44,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,python,php,kotlin,swift,go,c,nodejs,dotnet,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,kotlin,swift,go,c,nodejs,dotnet,html,css" /><br/>
   <img src="https://skillicons.dev/icons?i=react,androidstudio,git,firebase,electron,photoshop,figma,unity" />
 </p>
 
@@ -64,4 +64,5 @@
 ---
 
 ### 🧠 Fun Fact
-> I break code just to fix it better 
+
+> I break code just to fix it better 😎
