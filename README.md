@@ -18,9 +18,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently crafting beautiful UIs and exploring backend magic
-- 🌱 Always learning something new – from TypeScript to Minecraft plugin dev
-- 🎮 I love game development and automation projects
+- 🔭 Currently doing beautiful UIs and exploring backend magic
+- 🌱 Always learning something new – from Simple Scripting to complicated Scripting
+- 🎮 I love game development
 - 📫 Reach me on Discord: `zle0o` or join my [server](https://discord.gg/qNemf7Uqum)
 
 ---
