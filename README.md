@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm zle0o</h1>
-<h3 align="center">Frontend Wizard ⚡ | Code Alchemist 🧪 | From 🇩🇪 Germany</h3>
+<h3 align="center">Frontend Wizard  | Code Alchemist  | From 🇩🇪 Germany</h3>
 
 <!-- Profile Views -->
 <p align="center">
