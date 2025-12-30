@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am zle0o. I am an developer and taking commissions (depending on the request, I may decline.<br>I am happy to help were I can, you can DM me on discord: "zle0o". I am currently learning lua and luau.
+Hi, I am zle0o. I am an developer and taking commissions (depending on the request, I may decline).<br>I am happy to help were I can, you can DM me on discord: "zle0o". I am currently learning lua and luau.
 
 
 ## 🌐 Socials:
