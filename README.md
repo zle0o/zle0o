@@ -15,11 +15,6 @@ Hi, I am zle0o. I am an developer and taking commissions (depending on the reque
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=zle0o&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scriptforge) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
