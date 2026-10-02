@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am zle0o. I am a developer and I take commissions (depending on the request, I may decline). I own Convert2Go and many other useful websites that make your life easier! I am happy to help where I can for your Project. Feel free to DM me on Discord: "zle0o". I am currently learning Lua and Luau <br>
+Hi, I am zle0o. I am a developer and I take commissions (depending on the request, I may decline). I own Convert2Go and many other useful websites that make your life easier! I am happy to help where I can for your Project (You dont need to pay me). Feel free to DM me on Discord: "zle0o". I am currently learning Lua and Luau <br>
 
 
 ## 🌐 Socials:
